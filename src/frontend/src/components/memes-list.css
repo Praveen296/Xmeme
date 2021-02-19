@@ -1,0 +1,5 @@
+.meme__body {
+  margin: 5px;
+  display: flex;
+  flex-wrap: wrap;
+}
